@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Congreso ASEPUMA 2024</title>
+</head>
+<body>
+    <h1>Congreso ASEPUMA 2024</h1>
+
+    <iframe title="Estudio consumo cárnico" width="800" height="486" src="https://app.powerbi.com/view?r=eyJrIjoiMTY3ZWRjMDgtMzM0Ny00YzJiLWE0ZDMtNmQyM2M5Njc5ZDQ5IiwidCI6IjRkZTlmODUwLTM5MjQtNDI5NS04OTVjLWI1ZDQ5Y2ExMzEyOCIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
+
+    <h2>Resumen del PDF</h2>
+    <p><strong>Evolución en Power BI: Mejoras en la Selección de Objetos Visuales y la Integración de la IA</strong></p>
+    <p><strong>XXXII Jornadas ASEPUMA – XX Encuentro Internacional</strong></p>
+    <p><strong>Comunicación: A143</strong></p>
+    <p><strong>Autores:</strong></p>
+    <p>Gómez Albaladejo, Antonio <a href="mailto:antonio.gomez2@edu.upct.es">antonio.gomez2@edu.upct.es</a></p>
+    <p>Bernal García, Juan Jesús <a href="mailto:juanjesus.bernal@upct.es">juanjesus.bernal@upct.es</a></p>
+    <p><strong>Departamento de Métodos Cuantitativos, Ciencias Jurídicas y Lenguas Modernas</strong></p>
+    <p><strong>Universidad Politécnica de Cartagena</strong></p>
+    
+    <h3>Resumen</h3>
+    <p>
+        En este póster se pretende explorar las innovaciones en Power BI, especialmente en la 
+        selección de objetos visuales y la integración de la Inteligencia Artificial para enriquecer la 
+        visualización y el análisis de datos, así como su implementación junto con lenguajes de 
+        programación como R. Los avances en la personalización de gráficos y herramientas analíticas 
+        son fundamentales para ofrecer estrategias que permitan elegir visualizaciones que faciliten una 
+        interpretación clara y eficaz de datos complejos. A través de ejemplos visuales prácticos, se 
+        muestra cómo estas tecnologías influyen en la toma de decisiones vía presentación de información 
+        compleja de manera intuitiva.
+    </p>
+    <p>
+        Asimismo, el póster muestra estrategias para la selección y optimización de objetos 
+        visuales en dashboards, incluyendo gráficos con tooltips, gráficos de radar, barras escalonadas y 
+        la superposición de columnas y barras. Además, se incluye entre otros, la representación de 
+        estructuras de costes por tipo de producto, el cálculo del coeficiente de Pearson y la inclusión de 
+        elementos clave. También se presentan gráficos personalizados, como un gráfico de persona en 
+        SVG, y el uso de líneas continuas y discontinuas para previsiones, así como mapas de clúster y 
+        gráficos donut múltiples. Se destacan nuevas etiquetas y barras formateadas, la combinación de 
+        matrices, barras y columnas, y la integración de previsiones, detección de valores anómalos, 
+        barras de error y regresiones. El uso del lenguaje R para realizar regresiones dentro de Power 
+        BI y su actualización en dispositivos Android e iPhone son también elementos destacados.
+    </p>
+    <p>
+        Mantenerse actualizado con estas tendencias puede potenciar significativamente el 
+        análisis de datos en diversos contextos profesionales y académicos. Power BI se convierte en una 
+        herramienta esencial para quienes desean aprovechar al máximo las capacidades avanzadas del 
+        Business Intelligence, facilitando una mejor toma de decisiones. Finalmente, se menciona la 
+        utilidad del AppSource de Power BI para acceder a aplicaciones y visualizaciones adicionales, 
+        subrayando la importancia de esta plataforma para complementar la toma de decisiones.
+    </p>
+    <p><strong>Palabras claves:</strong> Power BI; Inteligencia de Negocios; Análisis de Datos; Inteligencia Artificial; Visualización de Datos</p>
+    <p><strong>JEL codes:</strong> M10, M21, M40, C55</p>
+    <p><strong>Área temática:</strong> Business Intelligence</p>
+
+    <p>Visita nuestra página web: <a href="https://exceltips.es" target="_blank">exceltips.es</a></p>
+</body>
+</html>
